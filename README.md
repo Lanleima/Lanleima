@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lanleima 👋
 
-<!--
-**Lanleima/Lanleima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with experience in **Python, Django, and React.js**.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Django
+- React.js
+- JavaScript
+- SQL / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- News Aggregation Application (Web Crawler based)
+- React Native News Application
+- Django Blog API
+
+## Interests
+- Artificial Intelligence
+- Full Stack Development
+- Backend Systems
+- Intelligent Web Applications
+
+📍 Bangalore, India
