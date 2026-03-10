@@ -20,4 +20,11 @@ Full Stack Developer with experience in **Python, Django, and React.js**.
 - Backend Systems
 - Intelligent Web Applications
 
+## Contact
+
+e-mailID: lanleimalaishram07@gmail.com
+LinkedIn: https://www.linkedin.com/in/lanleima-laishram07  
+Location: Bangalore, India
+
 📍 Bangalore, India
+
